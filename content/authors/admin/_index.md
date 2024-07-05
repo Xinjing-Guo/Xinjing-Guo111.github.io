@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinjing Guo (郭新敬)
+title: Xinjing Guo
 
 # Name pronunciation (optional)
 name_pronunciation: Sheen-jeeng Gwo
