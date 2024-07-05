@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Xinjing Guo (郭新敬)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sheen-jeeng Gwo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xinjing
+last_name: Guo
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Phd Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Fudan University
     url: https://www.example.com/
 
 # Social network links
